@@ -1,2 +1,2 @@
 # Web-Scrapper
-Scrapping Web data using C++ and HTML Parser made from lex and yacc. 
+Scrapping Web data using HTML Parser made from lex and yacc. 
